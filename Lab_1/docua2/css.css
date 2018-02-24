@@ -1,0 +1,97 @@
+span {
+  font-weight: bold;
+}
+ 
+.header {
+  width: 650px;
+  height: 150px;
+  margin-bottom:3px;
+}
+ 
+.header img {
+  width: 650px;
+  height: 150px;
+}
+ 
+.center_text {
+  text-align: center;
+}
+ 
+.text {
+    width: 550px;
+    font-size: 14pt;
+}
+ 
+.fullwrap {
+  max-width: 700px;
+  margin: 0 auto;
+}
+ 
+.wrap {
+  max-width: 650px;
+  margin: 0 auto;
+}
+ 
+.footer {
+  margin: 1 25px;
+  text-align: center;
+  background-color: #314CCA;
+  color:#ffffff;
+  padding: 20px;
+  width: 700px;
+}
+ 
+.footer_ref {
+  color: #060F38;
+}
+
+.one {
+  margin: 10px;
+  text-align: center;
+  width: 300px;
+  height: 350px;
+  float: left;
+}
+ 
+.one img {
+  width: 300px;
+}
+ 
+.one button {
+  background-color: #F42A14;
+  color:#ffffff;
+  border-radius: 5px;
+  border:0px solid #F42A14;
+  padding:12px 110px;
+}
+ 
+.two {
+  margin: 10px;
+  text-align: left;
+  font-size: 15pt;
+}
+.facebook {
+  background-color: #F42A14;
+  color:#ffffff;
+  border-radius: 5px;
+  border:0px solid #F42A14;
+  padding:12px;
+  display: block;
+  width: 100%;
+  margin-bottom: 25px;
+}
+ 
+.end {
+  clear: both;
+}
+ 
+.social_net {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+ 
+.social_net img {
+  width: 37px;
+}
+.exit{color: #ffffff;}

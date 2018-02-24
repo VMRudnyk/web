@@ -1,0 +1,9 @@
+div {
+  width: 400px;
+}
+.first-img {
+  float: left
+}
+.second-img {
+  float: right
+}

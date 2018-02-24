@@ -1,0 +1,33 @@
+div {
+  padding: 15px;
+  margin: auto;
+}
+
+.header {
+  background-color: #f33333;
+}
+
+.fullwrap {
+  background-color: #fcc8e3;
+}
+
+.wrap {
+  background-color: #fc88e3;
+  padding: 15px;
+}
+
+.main {
+  float: left;
+  width: 50%;
+  background-color: #fcf8e3;
+}
+
+.sidebar {
+  float: right;
+  width: 35%;
+  background-color: #d14df7;
+}
+
+.footer {
+  background-color: #dee397;
+}

@@ -1,0 +1,9 @@
+<div class="fullwrap">fullwrap
+  <div class="header">header</div>
+  <div class="wrap">wrap
+    <div class="main">main</div>
+    <div class="sidebar">side bar</div>
+    <div></div>
+  </div>
+  <div class="footer">footer</div>
+</div>

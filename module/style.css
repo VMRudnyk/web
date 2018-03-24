@@ -1,0 +1,43 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: 200px auto;
+}
+
+.star {
+	top: 30px;
+	margin: auto;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid green;
+    position: relative;
+}
+
+.star:after {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid green;
+    position: absolute;
+    content: "";
+    top: 30px;
+    left: -50px;
+}
+
+.mini-square {
+	height: 50px;
+	width: 200px;
+	position: absolute;
+	left: 900px;
+	top: 50px;
+	background: red;
+	opacity: 0;
+}
+
+.square:hover .mini-square {
+    opacity: 1;
+}
